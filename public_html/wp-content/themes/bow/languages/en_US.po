@@ -1,0 +1,2466 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bow\n"
+"POT-Creation-Date: 2015-05-05 12:03+0700\n"
+"PO-Revision-Date: 2015-05-05 12:03+0700\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Team: themesawesome <admin@themesawesome.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+"X-Poedit-SearchPath-3: .\n"
+
+#: 404.php:11 inc/format/content-no-result.php:8 ../bow/404.php:11
+#: ../bow/inc/format/content-no-result.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:15 inc/format/content-no-result.php:12 ../bow/404.php:15
+#: ../bow/inc/format/content-no-result.php:12
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:161 class-tgm.php:84
+#: ../bow/class-tgm-plugin-activation.php:161 ../bow/class-tgm.php:84
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:162 class-tgm.php:85
+#: ../bow/class-tgm-plugin-activation.php:162 ../bow/class-tgm.php:85
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:163 class-tgm.php:86
+#: ../bow/class-tgm-plugin-activation.php:163 ../bow/class-tgm.php:86
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:164
+#: ../bow/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:175 class-tgm.php:98
+#: ../bow/class-tgm-plugin-activation.php:175 ../bow/class-tgm.php:98
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:176
+#: ../bow/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:177 class-tgm-plugin-activation.php:1956
+#: class-tgm.php:99 ../bow/class-tgm-plugin-activation.php:177
+#: ../bow/class-tgm-plugin-activation.php:1956 ../bow/class-tgm.php:99
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:178
+#: ../bow/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:179
+#: ../bow/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:180
+#: ../bow/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:532 class-tgm-plugin-activation.php:2173
+#: ../bow/class-tgm-plugin-activation.php:532
+#: ../bow/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1167 class-tgm-plugin-activation.php:1348
+#: ../bow/class-tgm-plugin-activation.php:1167
+#: ../bow/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1170 class-tgm-plugin-activation.php:1351
+#: ../bow/class-tgm-plugin-activation.php:1170
+#: ../bow/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1175
+#: ../bow/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1178
+#: ../bow/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1178
+#: ../bow/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1181
+#: ../bow/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1183
+#: ../bow/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1288 class-tgm-plugin-activation.php:1409
+#: ../bow/class-tgm-plugin-activation.php:1288
+#: ../bow/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1312 class-tgm-plugin-activation.php:1410
+#: ../bow/class-tgm-plugin-activation.php:1312
+#: ../bow/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1372
+#: ../bow/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1388
+#: ../bow/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1389
+#: ../bow/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1390
+#: ../bow/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1391
+#: inc/option/core/inc/welcome/welcome.php:355
+#: ../bow/class-tgm-plugin-activation.php:1391
+#: ../bow/inc/option/core/inc/welcome/welcome.php:355
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1939
+#: ../bow/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1940
+#: ../bow/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1941
+#: ../bow/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1942
+#: ../bow/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1943
+#: ../bow/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1944
+#: ../bow/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1955
+#: ../bow/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2069
+#: ../bow/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2070
+#: ../bow/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2070 class-tgm-plugin-activation.php:2079
+#: ../bow/class-tgm-plugin-activation.php:2070
+#: ../bow/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2070 class-tgm-plugin-activation.php:2079
+#: ../bow/class-tgm-plugin-activation.php:2070
+#: ../bow/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2071
+#: ../bow/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2072
+#: ../bow/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2076
+#: ../bow/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2077
+#: ../bow/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2078
+#: ../bow/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2079
+#: ../bow/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2080
+#: ../bow/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2081
+#: ../bow/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm.php:87 ../bow/class-tgm.php:87
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm.php:100 ../bow/class-tgm.php:100
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: comments.php:20 comments.php:35 ../bow/comments.php:20
+#: ../bow/comments.php:35
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21 comments.php:36 ../bow/comments.php:21
+#: ../bow/comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:37 ../bow/comments.php:22
+#: ../bow/comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:47 ../bow/comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/format/content-page-image.php:20 inc/format/content-page-slider.php:37
+#: inc/format/content-page-video.php:23
+#: ../bow/inc/format/content-page-image.php:20
+#: ../bow/inc/format/content-page-slider.php:37
+#: ../bow/inc/format/content-page-video.php:23
+msgid "Discover"
+msgstr ""
+
+#: inc/format/content.php:36 ../bow/inc/format/content.php:36
+msgid "Categories: "
+msgstr ""
+
+#: inc/format/content.php:37 ../bow/inc/format/content.php:37
+msgid "Tags: "
+msgstr ""
+
+#: inc/format/content.php:48 ../bow/inc/format/content.php:48
+msgid "BY "
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:25
+#: ../bow/inc/function/akmanda-customizer.php:25
+msgid "Header"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:111
+#: ../bow/inc/function/akmanda-customizer.php:111
+msgid "Menu List Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:118
+#: ../bow/inc/function/akmanda-customizer.php:118
+msgid "Menu List Hover"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:125
+#: ../bow/inc/function/akmanda-customizer.php:125
+msgid "Navigation Social Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:132
+#: ../bow/inc/function/akmanda-customizer.php:132
+msgid "Navigation Social Hover"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:139
+#: ../bow/inc/function/akmanda-customizer.php:139
+msgid "Menu Copyright"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:146
+#: ../bow/inc/function/akmanda-customizer.php:146
+msgid "Menu Copyright Link"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:153
+#: ../bow/inc/function/akmanda-customizer.php:153
+msgid "Menu Copyright Link Hover"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:160
+#: ../bow/inc/function/akmanda-customizer.php:160
+msgid "Home Page Title"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:167
+#: ../bow/inc/function/akmanda-customizer.php:167
+msgid "Home Page Subtitle"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:174
+#: ../bow/inc/function/akmanda-customizer.php:174
+msgid "Home Page Discover"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:184
+#: ../bow/inc/function/akmanda-customizer.php:184
+msgid "Work"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:240
+#: ../bow/inc/function/akmanda-customizer.php:240
+msgid "Filtrable Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:247
+#: ../bow/inc/function/akmanda-customizer.php:247
+msgid "Filtrable Current"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:254
+#: ../bow/inc/function/akmanda-customizer.php:254
+msgid "Gallery Title"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:261
+#: ../bow/inc/function/akmanda-customizer.php:261
+msgid "Gallery Meta"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:268
+#: ../bow/inc/function/akmanda-customizer.php:268
+msgid "Gallery Navigation Text"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:275
+#: ../bow/inc/function/akmanda-customizer.php:275
+msgid "Gallery Picture Background"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:285
+#: ../bow/inc/function/akmanda-customizer.php:285
+msgid "Post"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:437
+#: ../bow/inc/function/akmanda-customizer.php:437
+msgid "Post Loop Background"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:444
+#: ../bow/inc/function/akmanda-customizer.php:444
+msgid "Loop Pagination Current"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:451
+#: ../bow/inc/function/akmanda-customizer.php:451
+msgid "Loop Pagination"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:458
+#: ../bow/inc/function/akmanda-customizer.php:458
+msgid "Loop Meta Post"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:465
+#: ../bow/inc/function/akmanda-customizer.php:465
+msgid "Post Title"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:472
+#: ../bow/inc/function/akmanda-customizer.php:472
+msgid "Single Post Meta"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:479
+#: ../bow/inc/function/akmanda-customizer.php:479
+msgid "Post Text"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:486
+#: ../bow/inc/function/akmanda-customizer.php:486
+msgid "Post Category"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:493
+#: ../bow/inc/function/akmanda-customizer.php:493
+msgid "Post Category Hover"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:500
+#: ../bow/inc/function/akmanda-customizer.php:500
+msgid "Post Social Text"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:507
+#: ../bow/inc/function/akmanda-customizer.php:507
+msgid "Post Author"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:514
+#: ../bow/inc/function/akmanda-customizer.php:514
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:521
+#: ../bow/inc/function/akmanda-customizer.php:521
+msgid "Post Navigation Hover"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:528
+#: ../bow/inc/function/akmanda-customizer.php:528
+msgid "Comment Title"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:535
+#: ../bow/inc/function/akmanda-customizer.php:535
+msgid "Comment Title Border"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:542
+#: ../bow/inc/function/akmanda-customizer.php:542
+msgid "Comment Author"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:549
+#: ../bow/inc/function/akmanda-customizer.php:549
+msgid "Comment Content"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:556
+#: ../bow/inc/function/akmanda-customizer.php:556
+msgid "Blockquote"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:566
+#: ../bow/inc/function/akmanda-customizer.php:566
+msgid "Content"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:598
+#: ../bow/inc/function/akmanda-customizer.php:598
+msgid "Form Border"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:605
+#: ../bow/inc/function/akmanda-customizer.php:605
+msgid "Form Border Focus"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:612
+#: ../bow/inc/function/akmanda-customizer.php:612
+msgid "Button Text"
+msgstr ""
+
+#: inc/function/comment.php:16 ../bow/inc/function/comment.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/function/comment.php:21 ../bow/inc/function/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/function/comment.php:34 ../bow/inc/function/comment.php:34
+msgid "Edit"
+msgstr ""
+
+#: inc/function/custom.php:88 ../bow/inc/function/custom.php:88
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/function/navigation.php:46 ../bow/inc/function/navigation.php:46
+msgid "OLDER POST"
+msgstr ""
+
+#: inc/function/navigation.php:50 ../bow/inc/function/navigation.php:50
+msgid "NEWER POST"
+msgstr ""
+
+#: inc/meta-box/init.php:258 ../bow/inc/meta-box/init.php:258
+msgid "Clear"
+msgstr ""
+
+#: inc/meta-box/init.php:259 inc/option/core/framework.php:1844
+#: ../bow/inc/meta-box/init.php:259 ../bow/inc/option/core/framework.php:1844
+msgid "Default"
+msgstr ""
+
+#: inc/meta-box/init.php:260 ../bow/inc/meta-box/init.php:260
+msgid "Select Color"
+msgstr ""
+
+#: inc/meta-box/init.php:261 ../bow/inc/meta-box/init.php:261
+msgid "Current Color"
+msgstr ""
+
+#: inc/meta-box/init.php:288 ../bow/inc/meta-box/init.php:288
+msgid "Select / Deselect All"
+msgstr ""
+
+#: inc/meta-box/init.php:1179 ../bow/inc/meta-box/init.php:1179
+msgid "Save"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:14
+#: ../bow/inc/meta-box/post-functions.php:14
+msgid "Gallery Details"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:23
+#: ../bow/inc/meta-box/post-functions.php:23
+msgid "Video Link"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:24
+#: ../bow/inc/meta-box/post-functions.php:24
+msgid "Enter an link of video (optional) (NOTE: INCLUDE HTTP://)"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:38
+#: ../bow/inc/meta-box/post-functions.php:38
+msgid "Bow Home Image Options"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:53 inc/meta-box/post-functions.php:94
+#: ../bow/inc/meta-box/post-functions.php:53
+#: ../bow/inc/meta-box/post-functions.php:94
+msgid "Title Text"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:59 inc/meta-box/post-functions.php:100
+#: ../bow/inc/meta-box/post-functions.php:59
+#: ../bow/inc/meta-box/post-functions.php:100
+msgid "Slogan Text"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:65 inc/meta-box/post-functions.php:106
+#: ../bow/inc/meta-box/post-functions.php:65
+#: ../bow/inc/meta-box/post-functions.php:106
+msgid "Url Discover"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:66 inc/meta-box/post-functions.php:107
+#: inc/meta-box/post-functions.php:148 inc/meta-box/post-functions.php:176
+#: ../bow/inc/meta-box/post-functions.php:66
+#: ../bow/inc/meta-box/post-functions.php:107
+#: ../bow/inc/meta-box/post-functions.php:148
+#: ../bow/inc/meta-box/post-functions.php:176
+msgid "Add url here (use http://)"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:78
+#: ../bow/inc/meta-box/post-functions.php:78
+msgid "Bow Home Video Options"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:120
+#: ../bow/inc/meta-box/post-functions.php:120
+msgid "Bow Contact Page Options"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:129
+#: ../bow/inc/meta-box/post-functions.php:129
+msgid "Email Address"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:135
+#: ../bow/inc/meta-box/post-functions.php:135
+msgid "Phone Number"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:141
+#: ../bow/inc/meta-box/post-functions.php:141
+msgid "Address"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:147
+#: ../bow/inc/meta-box/post-functions.php:147
+msgid "Gmaps Url"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:161
+#: ../bow/inc/meta-box/post-functions.php:161
+msgid "Bow About Page Options"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:169
+#: ../bow/inc/meta-box/post-functions.php:169
+msgid "Slogan"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:175
+#: ../bow/inc/meta-box/post-functions.php:175
+msgid "Slogan Url"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:189
+#: ../bow/inc/meta-box/post-functions.php:189
+msgid "Bow Work Page Options"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:197
+#: ../bow/inc/meta-box/post-functions.php:197
+msgid "Use Infinite Scroll"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:201
+#: ../bow/inc/meta-box/post-functions.php:201
+msgid "YES"
+msgstr ""
+
+#: inc/meta-box/post-functions.php:202
+#: ../bow/inc/meta-box/post-functions.php:202
+msgid "NO"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_ajax.php:47
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_ajax.php:131
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_ajax.php:134
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_field.php:459
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_field.php:459
+msgid "Add Group"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_field.php:460
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_field.php:460
+msgid "Remove Group"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:250
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:306
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:706
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:768
+#: inc/option/core/inc/fields/background/field_background.php:321
+#: inc/option/core/inc/fields/media/field_media.php:205
+#: inc/option/core/inc/fields/multi_text/field_multi_text.php:69
+#: inc/option/core/inc/fields/multi_text/field_multi_text.php:73
+#: inc/option/core/inc/fields/multi_text/field_multi_text.php:76
+#: inc/option/core/inc/fields/slides/field_slides.php:133
+#: inc/option/core/inc/fields/slides/field_slides.php:190
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:306
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:706
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:768
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:321
+#: ../bow/inc/option/core/inc/fields/media/field_media.php:205
+#: ../bow/inc/option/core/inc/fields/multi_text/field_multi_text.php:69
+#: ../bow/inc/option/core/inc/fields/multi_text/field_multi_text.php:73
+#: ../bow/inc/option/core/inc/fields/multi_text/field_multi_text.php:76
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:133
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:601
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:635
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:601
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:635
+msgid "No terms"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:674
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:728
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:674
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:728
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:695
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:760
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:695
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:760
+msgid "Remove Image"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:706
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:768
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:706
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:768
+msgid "File:"
+msgstr ""
+
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:706
+#: inc/meta-box/helpers/cmb_Meta_Box_types.php:768
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:706
+#: ../bow/inc/meta-box/helpers/cmb_Meta_Box_types.php:768
+msgid "Download"
+msgstr ""
+
+#: inc/option/core/framework.php:220 ../bow/inc/option/core/framework.php:220
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: inc/option/core/framework.php:220
+#: inc/option/core/inc/welcome/welcome.php:194
+#: ../bow/inc/option/core/framework.php:220
+#: ../bow/inc/option/core/inc/welcome/welcome.php:194
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/option/core/framework.php:224 inc/option/core/framework.php:228
+#: inc/option/panel/config.php:329 inc/option/panel/config.php:330
+#: ../bow/inc/option/core/framework.php:224
+#: ../bow/inc/option/core/framework.php:228
+#: ../bow/inc/option/panel/config.php:329
+#: ../bow/inc/option/panel/config.php:330
+msgid "Options"
+msgstr ""
+
+#: inc/option/core/framework.php:1695
+#: ../bow/inc/option/core/framework.php:1695
+msgid "Enable"
+msgstr ""
+
+#: inc/option/core/framework.php:1700
+#: ../bow/inc/option/core/framework.php:1700
+msgid "Disable"
+msgstr ""
+
+#: inc/option/core/framework.php:1706
+#: ../bow/inc/option/core/framework.php:1706
+msgid "moving the mouse over"
+msgstr ""
+
+#: inc/option/core/framework.php:1708
+#: ../bow/inc/option/core/framework.php:1708
+msgid "clicking"
+msgstr ""
+
+#: inc/option/core/framework.php:1712
+#: ../bow/inc/option/core/framework.php:1712
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: inc/option/core/framework.php:1717
+#: ../bow/inc/option/core/framework.php:1717
+msgid "Hints"
+msgstr ""
+
+#: inc/option/core/framework.php:2695
+#: ../bow/inc/option/core/framework.php:2695
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: inc/option/core/framework.php:2781
+#: ../bow/inc/option/core/framework.php:2781
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: inc/option/core/core/enqueue.php:396
+#: inc/option/core/inc/extensions/customizer/extension_customizer.php:566
+#: ../bow/inc/option/core/core/enqueue.php:396
+#: ../bow/inc/option/core/inc/extensions/customizer/extension_customizer.php:566
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: inc/option/core/core/enqueue.php:404
+#: inc/option/core/inc/extensions/customizer/extension_customizer.php:567
+#: ../bow/inc/option/core/core/enqueue.php:404
+#: ../bow/inc/option/core/inc/extensions/customizer/extension_customizer.php:567
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: inc/option/core/core/enqueue.php:412
+#: ../bow/inc/option/core/core/enqueue.php:412
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: inc/option/core/core/enqueue.php:420
+#: inc/option/core/inc/extensions/customizer/extension_customizer.php:568
+#: ../bow/inc/option/core/core/enqueue.php:420
+#: ../bow/inc/option/core/inc/extensions/customizer/extension_customizer.php:568
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/option/core/core/enqueue.php:427
+#: ../bow/inc/option/core/core/enqueue.php:427
+msgid "Please Wait"
+msgstr ""
+
+#: inc/option/core/core/enqueue.php:438
+#: ../bow/inc/option/core/core/enqueue.php:438
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: inc/option/core/core/enqueue.php:439
+#: ../bow/inc/option/core/core/enqueue.php:439
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: inc/option/core/core/panel.php:65 ../bow/inc/option/core/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: inc/option/core/core/panel.php:141
+#: ../bow/inc/option/core/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: inc/option/core/core/panel.php:156
+#: ../bow/inc/option/core/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: inc/option/core/core/panel.php:170
+#: ../bow/inc/option/core/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: inc/option/core/core/panel.php:184
+#: ../bow/inc/option/core/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: inc/option/core/core/panel.php:204
+#: ../bow/inc/option/core/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/option/core/core/panel.php:212
+#: ../bow/inc/option/core/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: inc/option/core/core/panel.php:220
+#: ../bow/inc/option/core/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: inc/option/core/core/panel.php:340
+#: ../bow/inc/option/core/core/panel.php:340
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: inc/option/core/inc/class.redux_filesystem.php:23
+#: ../bow/inc/option/core/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: inc/option/core/inc/class.redux_filesystem.php:25
+#: ../bow/inc/option/core/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: inc/option/core/inc/class.redux_functions.php:258
+#: ../bow/inc/option/core/inc/class.redux_functions.php:258
+msgid "Dismiss"
+msgstr ""
+
+#: inc/option/core/inc/class.redux_helpers.php:593
+#: ../bow/inc/option/core/inc/class.redux_helpers.php:593
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: inc/option/core/inc/class.redux_themecheck.php:61
+#: ../bow/inc/option/core/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: inc/option/core/inc/class.redux_themecheck.php:109
+#: ../bow/inc/option/core/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:129
+#: ../bow/inc/option/core/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:130
+#: ../bow/inc/option/core/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:135
+#: ../bow/inc/option/core/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:140
+#: ../bow/inc/option/core/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:151
+#: ../bow/inc/option/core/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:152
+#: ../bow/inc/option/core/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:152
+#: ../bow/inc/option/core/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:152
+#: ../bow/inc/option/core/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:153
+#: ../bow/inc/option/core/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:153
+#: ../bow/inc/option/core/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:154
+#: inc/option/core/inc/welcome/welcome.php:218
+#: ../bow/inc/option/core/inc/tracking.php:154
+#: ../bow/inc/option/core/inc/welcome/welcome.php:218
+msgid "Redux Extensions"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:154
+#: ../bow/inc/option/core/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:154
+#: ../bow/inc/option/core/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:155
+#: ../bow/inc/option/core/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:155
+#: ../bow/inc/option/core/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:155
+#: ../bow/inc/option/core/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:155
+#: ../bow/inc/option/core/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:156
+#: ../bow/inc/option/core/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:156
+#: ../bow/inc/option/core/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:157
+#: ../bow/inc/option/core/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:157
+#: ../bow/inc/option/core/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: inc/option/core/inc/tracking.php:166
+#: ../bow/inc/option/core/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: inc/option/core/inc/extensions/customizer/extension_customizer.php:601
+#: ../bow/inc/option/core/inc/extensions/customizer/extension_customizer.php:601
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: inc/option/core/inc/extensions/customizer/extension_customizer.php:602
+#: ../bow/inc/option/core/inc/extensions/customizer/extension_customizer.php:602
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: inc/option/core/inc/extensions/customizer/extension_customizer.php:603
+#: ../bow/inc/option/core/inc/extensions/customizer/extension_customizer.php:603
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/extension_import_export.php:120
+#: ../bow/inc/option/core/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:103
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:103
+msgid "Import Options"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:104
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from File"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:104
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid "Import from URL"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:107
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:112
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:112
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:116
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:116
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:119
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:119
+msgid "Export Options"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:121
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:126
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Data"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:126
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Download Data File"
+msgstr ""
+
+#: inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:126
+#: ../bow/inc/option/core/inc/extensions/import_export/import_export/field_import_export.php:126
+msgid "Copy Export URL"
+msgstr ""
+
+#: inc/option/core/inc/extensions/options_object/extension_options_object.php:82
+#: inc/option/core/inc/extensions/options_object/options_object/field_options_object.php:104
+#: ../bow/inc/option/core/inc/extensions/options_object/extension_options_object.php:82
+#: ../bow/inc/option/core/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: inc/option/core/inc/extensions/options_object/options_object/field_options_object.php:107
+#: ../bow/inc/option/core/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:124
+#: inc/option/core/inc/fields/color/field_color.php:73
+#: inc/option/core/inc/fields/color_gradient/field_color_gradient.php:79
+#: inc/option/core/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:124
+#: ../bow/inc/option/core/inc/fields/color/field_color.php:73
+#: ../bow/inc/option/core/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../bow/inc/option/core/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:141
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:157
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:173
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:188
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:203
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:223
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:277
+#: inc/option/core/inc/fields/media/field_media.php:149
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:277
+#: ../bow/inc/option/core/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: inc/option/core/inc/fields/background/field_background.php:314
+#: inc/option/core/inc/fields/media/field_media.php:198
+#: inc/option/core/inc/fields/slides/field_slides.php:126
+#: inc/option/core/inc/fields/slides/field_slides.php:188
+#: ../bow/inc/option/core/inc/fields/background/field_background.php:314
+#: ../bow/inc/option/core/inc/fields/media/field_media.php:198
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:126
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:125
+#: inc/option/core/inc/fields/spacing/field_spacing.php:191
+#: ../bow/inc/option/core/inc/fields/border/field_border.php:125
+#: ../bow/inc/option/core/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:138
+#: inc/option/core/inc/fields/spacing/field_spacing.php:215
+#: ../bow/inc/option/core/inc/fields/border/field_border.php:138
+#: ../bow/inc/option/core/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:145
+#: inc/option/core/inc/fields/spacing/field_spacing.php:222
+#: ../bow/inc/option/core/inc/fields/border/field_border.php:145
+#: ../bow/inc/option/core/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:152
+#: inc/option/core/inc/fields/spacing/field_spacing.php:229
+#: ../bow/inc/option/core/inc/fields/border/field_border.php:152
+#: ../bow/inc/option/core/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:159
+#: inc/option/core/inc/fields/spacing/field_spacing.php:236
+#: ../bow/inc/option/core/inc/fields/border/field_border.php:159
+#: ../bow/inc/option/core/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: inc/option/core/inc/fields/border/field_border.php:173
+#: ../bow/inc/option/core/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: inc/option/core/inc/fields/color_gradient/field_color_gradient.php:68
+#: ../bow/inc/option/core/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: inc/option/core/inc/fields/color_gradient/field_color_gradient.php:82
+#: ../bow/inc/option/core/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: inc/option/core/inc/fields/dimensions/field_dimensions.php:162
+#: ../bow/inc/option/core/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: inc/option/core/inc/fields/dimensions/field_dimensions.php:178
+#: inc/option/core/inc/fields/typography/field_typography.php:442
+#: ../bow/inc/option/core/inc/fields/dimensions/field_dimensions.php:178
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: inc/option/core/inc/fields/dimensions/field_dimensions.php:189
+#: inc/option/core/inc/fields/dimensions/field_dimensions.php:190
+#: inc/option/core/inc/fields/spacing/field_spacing.php:245
+#: inc/option/core/inc/fields/spacing/field_spacing.php:246
+#: ../bow/inc/option/core/inc/fields/dimensions/field_dimensions.php:189
+#: ../bow/inc/option/core/inc/fields/dimensions/field_dimensions.php:190
+#: ../bow/inc/option/core/inc/fields/spacing/field_spacing.php:245
+#: ../bow/inc/option/core/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: inc/option/core/inc/fields/gallery/field_gallery.php:73
+#: ../bow/inc/option/core/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: inc/option/core/inc/fields/gallery/field_gallery.php:74
+#: ../bow/inc/option/core/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: inc/option/core/inc/fields/link_color/field_link_color.php:87
+#: ../bow/inc/option/core/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: inc/option/core/inc/fields/link_color/field_link_color.php:91
+#: ../bow/inc/option/core/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: inc/option/core/inc/fields/link_color/field_link_color.php:95
+#: ../bow/inc/option/core/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: inc/option/core/inc/fields/link_color/field_link_color.php:99
+#: ../bow/inc/option/core/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: inc/option/core/inc/fields/multi_text/field_multi_text.php:61
+#: ../bow/inc/option/core/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: inc/option/core/inc/fields/password/field_password.php:62
+#: ../bow/inc/option/core/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: inc/option/core/inc/fields/password/field_password.php:63
+#: ../bow/inc/option/core/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: inc/option/core/inc/fields/select/field_select.php:83
+#: inc/option/core/inc/fields/select_image/field_select_image.php:63
+#: ../bow/inc/option/core/inc/fields/select/field_select.php:83
+#: ../bow/inc/option/core/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: inc/option/core/inc/fields/select/field_select.php:134
+#: inc/option/core/inc/fields/select_image/field_select_image.php:144
+#: ../bow/inc/option/core/inc/fields/select/field_select.php:134
+#: ../bow/inc/option/core/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:68
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:73
+#: inc/option/core/inc/fields/slides/field_slides.php:174
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:73
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:145
+#: inc/option/core/inc/fields/slides/field_slides.php:200
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:145
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:149
+#: inc/option/core/inc/fields/slides/field_slides.php:204
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:149
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:153
+#: inc/option/core/inc/fields/slides/field_slides.php:207
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:153
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:167
+#: inc/option/core/inc/fields/slides/field_slides.php:220
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:167
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: inc/option/core/inc/fields/slides/field_slides.php:223
+#: ../bow/inc/option/core/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/option/core/inc/fields/switch/field_switch.php:41
+#: ../bow/inc/option/core/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: inc/option/core/inc/fields/switch/field_switch.php:44
+#: ../bow/inc/option/core/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:231
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:232
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:258
+#: inc/option/core/inc/fields/typography/field_typography.php:259
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:258
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:273
+#: inc/option/core/inc/fields/typography/field_typography.php:281
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:273
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:274
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:281
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:321
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:323
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:325
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:325
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:342
+#: inc/option/core/inc/fields/typography/field_typography.php:343
+#: inc/option/core/inc/fields/typography/field_typography.php:344
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:342
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:343
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:365
+#: inc/option/core/inc/fields/typography/field_typography.php:366
+#: inc/option/core/inc/fields/typography/field_typography.php:367
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:365
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:366
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:388
+#: inc/option/core/inc/fields/typography/field_typography.php:389
+#: inc/option/core/inc/fields/typography/field_typography.php:390
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:388
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:389
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:408
+#: inc/option/core/inc/fields/typography/field_typography.php:409
+#: inc/option/core/inc/fields/typography/field_typography.php:410
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:408
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:409
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:432
+#: inc/option/core/inc/fields/typography/field_typography.php:433
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:432
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:433
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:441
+#: inc/option/core/inc/fields/typography/field_typography.php:442
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:441
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:450
+#: inc/option/core/inc/fields/typography/field_typography.php:451
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:450
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:459
+#: inc/option/core/inc/fields/typography/field_typography.php:460
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:459
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:478
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:480
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:879
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:879
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/option/core/inc/fields/typography/field_typography.php:980
+#: ../bow/inc/option/core/inc/fields/typography/field_typography.php:980
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/option/core/inc/validation/color/validation_color.php:15
+#: inc/option/core/inc/validation/colorrgba/validation_colorrgba.php:16
+#: inc/option/core/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../bow/inc/option/core/inc/validation/color/validation_color.php:15
+#: ../bow/inc/option/core/inc/validation/colorrgba/validation_colorrgba.php:16
+#: ../bow/inc/option/core/inc/validation/color_rgba/validation_color_rgba.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: inc/option/core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+#: ../bow/inc/option/core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: inc/option/core/inc/validation/css/validation_css.php:38
+#: ../bow/inc/option/core/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: inc/option/core/inc/validation/date/validation_date.php:16
+#: ../bow/inc/option/core/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/option/core/inc/validation/email/validation_email.php:16
+#: inc/option/core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#: ../bow/inc/option/core/inc/validation/email/validation_email.php:16
+#: ../bow/inc/option/core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/option/core/inc/validation/not_empty/validation_not_empty.php:16
+#: ../bow/inc/option/core/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: inc/option/core/inc/validation/no_html/validation_no_html.php:15
+#: ../bow/inc/option/core/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: inc/option/core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+#: ../bow/inc/option/core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/option/core/inc/validation/numeric/validation_numeric.php:16
+#: inc/option/core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+#: ../bow/inc/option/core/inc/validation/numeric/validation_numeric.php:16
+#: ../bow/inc/option/core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/option/core/inc/validation/unique_slug/validation_unique_slug.php:16
+#: ../bow/inc/option/core/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: inc/option/core/inc/validation/url/validation_url.php:16
+#: ../bow/inc/option/core/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:174
+#: ../bow/inc/option/core/inc/welcome/welcome.php:174
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:194
+#: ../bow/inc/option/core/inc/welcome/welcome.php:194
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:202
+#: ../bow/inc/option/core/inc/welcome/welcome.php:202
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:210
+#: ../bow/inc/option/core/inc/welcome/welcome.php:210
+msgid "Get Support"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:227
+#: ../bow/inc/option/core/inc/welcome/welcome.php:227
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:235
+#: ../bow/inc/option/core/inc/welcome/welcome.php:235
+msgid "Redux Framework Status"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:335
+#: ../bow/inc/option/core/inc/welcome/welcome.php:335
+msgid "What's New"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:339
+#: ../bow/inc/option/core/inc/welcome/welcome.php:339
+msgid "Extensions"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:343
+#: ../bow/inc/option/core/inc/welcome/welcome.php:343
+msgid "Changelog"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:347
+#: ../bow/inc/option/core/inc/welcome/welcome.php:347
+msgid "Credits"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:351
+#: ../bow/inc/option/core/inc/welcome/welcome.php:351
+msgid "Support"
+msgstr ""
+
+#: inc/option/core/inc/welcome/welcome.php:512
+#: ../bow/inc/option/core/inc/welcome/welcome.php:512
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/about.php:2
+#: ../bow/inc/option/core/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/about.php:5
+#: ../bow/inc/option/core/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/about.php:8
+#: inc/option/core/inc/welcome/views/changelog.php:8
+#: inc/option/core/inc/welcome/views/credits.php:8
+#: inc/option/core/inc/welcome/views/extensions.php:82
+#: inc/option/core/inc/welcome/views/status_report.php:31
+#: inc/option/core/inc/welcome/views/support.php:8
+#: ../bow/inc/option/core/inc/welcome/views/about.php:8
+#: ../bow/inc/option/core/inc/welcome/views/changelog.php:8
+#: ../bow/inc/option/core/inc/welcome/views/credits.php:8
+#: ../bow/inc/option/core/inc/welcome/views/extensions.php:82
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:31
+#: ../bow/inc/option/core/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/about.php:15
+#: ../bow/inc/option/core/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/about.php:17
+#: ../bow/inc/option/core/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/about.php:22
+#: ../bow/inc/option/core/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/about.php:28
+#: ../bow/inc/option/core/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/changelog.php:2
+#: ../bow/inc/option/core/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/changelog.php:5
+#: inc/option/core/inc/welcome/views/status_report.php:28
+#: ../bow/inc/option/core/inc/welcome/views/changelog.php:5
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/credits.php:2
+#: ../bow/inc/option/core/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/credits.php:5
+#: ../bow/inc/option/core/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/credits.php:14
+#: ../bow/inc/option/core/inc/welcome/views/credits.php:14
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"https://github.com/reduxframework/redux-framework/"
+"blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/extensions.php:76
+#: ../bow/inc/option/core/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/extensions.php:79
+#: ../bow/inc/option/core/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/extensions.php:88
+#: ../bow/inc/option/core/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:25
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:38
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:41
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:44
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:51
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:51
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:60
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:65
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:70
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:75
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:80
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:88
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:93
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:102
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:107
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:116
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:122
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:131
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:136
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:144
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:150
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:157
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:163
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:172
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:181
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:186
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:202
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:207
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:212
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:223
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:228
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:235
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:240
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:245
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:250
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:255
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:267
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:277
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:282
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:287
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:293
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:310
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:349
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:355
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:358
+#: inc/option/core/inc/welcome/views/status_report.php:373
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:358
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:365
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:371
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:405
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:421
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:445
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:577
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:582
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:582
+msgid "Name"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:587
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:587
+msgid "Version"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:593
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:598
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:603
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:606
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:614
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:620
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/status_report.php:627
+#: ../bow/inc/option/core/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:2
+#: ../bow/inc/option/core/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:5
+#: ../bow/inc/option/core/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:20
+#: ../bow/inc/option/core/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:21
+#: ../bow/inc/option/core/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:22
+#: inc/option/core/inc/welcome/views/support.php:65
+#: ../bow/inc/option/core/inc/welcome/views/support.php:22
+#: ../bow/inc/option/core/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:27
+#: ../bow/inc/option/core/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:30
+#: ../bow/inc/option/core/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:33
+#: ../bow/inc/option/core/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:37
+#: ../bow/inc/option/core/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:44
+#: ../bow/inc/option/core/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:47
+#: ../bow/inc/option/core/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:52
+#: ../bow/inc/option/core/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:53
+#: ../bow/inc/option/core/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:56
+#: ../bow/inc/option/core/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:57
+#: ../bow/inc/option/core/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:68
+#: ../bow/inc/option/core/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:74
+#: ../bow/inc/option/core/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:77
+#: ../bow/inc/option/core/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: inc/option/core/inc/welcome/views/support.php:215
+#: ../bow/inc/option/core/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: inc/option/core/templates/panel/footer.tpl.php:47
+#: inc/option/core/templates/panel/header_stickybar.tpl.php:20
+#: ../bow/inc/option/core/templates/panel/footer.tpl.php:47
+#: ../bow/inc/option/core/templates/panel/header_stickybar.tpl.php:20
+msgid "Save Changes"
+msgstr ""
+
+#: inc/option/core/templates/panel/footer.tpl.php:50
+#: inc/option/core/templates/panel/header_stickybar.tpl.php:22
+#: ../bow/inc/option/core/templates/panel/footer.tpl.php:50
+#: ../bow/inc/option/core/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr ""
+
+#: inc/option/core/templates/panel/footer.tpl.php:51
+#: inc/option/core/templates/panel/header_stickybar.tpl.php:23
+#: ../bow/inc/option/core/templates/panel/footer.tpl.php:51
+#: ../bow/inc/option/core/templates/panel/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr ""
+
+#: inc/option/core/templates/panel/footer.tpl.php:56
+#: inc/option/core/templates/panel/header_stickybar.tpl.php:26
+#: ../bow/inc/option/core/templates/panel/footer.tpl.php:56
+#: ../bow/inc/option/core/templates/panel/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr ""
+
+#: inc/option/core/templates/panel/header.tpl.php:12
+#: inc/option/core/templates/panel/header.tpl.php:47
+#: ../bow/inc/option/core/templates/panel/header.tpl.php:12
+#: ../bow/inc/option/core/templates/panel/header.tpl.php:47
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: inc/option/core/templates/panel/header.tpl.php:21
+#: ../bow/inc/option/core/templates/panel/header.tpl.php:21
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: inc/option/core/templates/panel/header.tpl.php:27
+#: ../bow/inc/option/core/templates/panel/header.tpl.php:27
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: inc/option/core/templates/panel/header.tpl.php:32
+#: ../bow/inc/option/core/templates/panel/header.tpl.php:32
+msgid "and"
+msgstr ""
+
+#: inc/option/core/templates/panel/header.tpl.php:35
+#: ../bow/inc/option/core/templates/panel/header.tpl.php:35
+msgid "Redux has enabled developer mode because"
+msgstr ""
+
+#: inc/option/core/templates/panel/header.tpl.php:37
+#: ../bow/inc/option/core/templates/panel/header.tpl.php:37
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: inc/option/core/templates/panel/header_stickybar.tpl.php:16
+#: ../bow/inc/option/core/templates/panel/header_stickybar.tpl.php:16
+msgid "Expand"
+msgstr ""
+
+#: inc/option/panel/config.php:52 ../bow/inc/option/panel/config.php:52
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/option/panel/config.php:69 ../bow/inc/option/panel/config.php:69
+msgid "Header Options"
+msgstr ""
+
+#: inc/option/panel/config.php:77 ../bow/inc/option/panel/config.php:77
+msgid "Logo"
+msgstr ""
+
+#: inc/option/panel/config.php:78 ../bow/inc/option/panel/config.php:78
+msgid "Upload your logo here (any size)."
+msgstr ""
+
+#: inc/option/panel/config.php:87 ../bow/inc/option/panel/config.php:87
+msgid "Background Options"
+msgstr ""
+
+#: inc/option/panel/config.php:94 ../bow/inc/option/panel/config.php:94
+msgid "Body Background"
+msgstr ""
+
+#: inc/option/panel/config.php:95 ../bow/inc/option/panel/config.php:95
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/option/panel/config.php:106 ../bow/inc/option/panel/config.php:106
+msgid "Footer Options"
+msgstr ""
+
+#: inc/option/panel/config.php:112 ../bow/inc/option/panel/config.php:112
+msgid "Footer Text"
+msgstr ""
+
+#: inc/option/panel/config.php:113 ../bow/inc/option/panel/config.php:113
+msgid "Add Your Copyright Here"
+msgstr ""
+
+#: inc/option/panel/config.php:120 ../bow/inc/option/panel/config.php:120
+msgid "Work Footer Slogan"
+msgstr ""
+
+#: inc/option/panel/config.php:121 ../bow/inc/option/panel/config.php:121
+msgid "Add Your Slogan Here"
+msgstr ""
+
+#: inc/option/panel/config.php:128 ../bow/inc/option/panel/config.php:128
+msgid "Work Slogan Link"
+msgstr ""
+
+#: inc/option/panel/config.php:140 ../bow/inc/option/panel/config.php:140
+msgid "Typography Options"
+msgstr ""
+
+#: inc/option/panel/config.php:148 ../bow/inc/option/panel/config.php:148
+msgid "Body Options"
+msgstr ""
+
+#: inc/option/panel/config.php:162 ../bow/inc/option/panel/config.php:162
+msgid "Set website body font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:178 ../bow/inc/option/panel/config.php:178
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/option/panel/config.php:192 ../bow/inc/option/panel/config.php:192
+msgid "Set website heading font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:206 ../bow/inc/option/panel/config.php:206
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/option/panel/config.php:220 ../bow/inc/option/panel/config.php:220
+msgid "Set website menu font (leave form empty if you want to use default)"
+msgstr ""
+
+#: inc/option/panel/config.php:235 ../bow/inc/option/panel/config.php:235
+msgid "Social Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:241 ../bow/inc/option/panel/config.php:241
+msgid "Facebook Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:249 ../bow/inc/option/panel/config.php:249
+msgid "twitter Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:258 ../bow/inc/option/panel/config.php:258
+msgid "Google+ Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:267 ../bow/inc/option/panel/config.php:267
+msgid "linkedin Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:276 ../bow/inc/option/panel/config.php:276
+msgid "Pinterest Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:284 ../bow/inc/option/panel/config.php:284
+msgid "Instagram Profile"
+msgstr ""
+
+#: inc/option/panel/config.php:301 ../bow/inc/option/panel/config.php:301
+msgid "Documentation"
+msgstr ""
+
+#: inc/option/panel/config.php:312 ../bow/inc/option/panel/config.php:312
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/option/panel/config.php:313 ../bow/inc/option/panel/config.php:313
+msgid "<p>Please go to themesawesome.com to get support</p>"
+msgstr ""

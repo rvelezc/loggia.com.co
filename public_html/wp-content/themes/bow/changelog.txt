@@ -1,0 +1,89 @@
+Changelog 1.7 5 May 2015
+
+- Update Framework Core
+- Fix Plugin Bulk Installer
+- Update Language
+
+File Changed :
+
+- inc/option/core
+- class-tgm-plugin-activation.php
+- languages/en_US.mo
+
+Changelog 1.6 27 March 2015
+
+- Add Choice for infinite scroll at Work Template
+- Add Work Mansonry Page Template (No Crop Image in this page template)
+
+FIle Changed :
+
+- inc/meta-box/post-functions.php
+- inc/option/panel/config.php
+- js/admin-js.js
+- js/isotope.js
+- js/work-mansory.js
+- page-work-mansonry.php
+- page-work.php
+- style.css
+
+
+
+Changelog 1.5 26 February 2015
+
+- Added Infinite Scroll to Page Work
+
+File Changes
+- functions.php
+- Add js/jquery.infinitescroll.min.js
+- js/main.js
+- page-work.php
+- style.css
+
+
+
+
+Changelog 1.4
+
+- Fixed last image margin lost (work page)
+- Added Video support for gallery/work
+
+File Changed
+
+- functions.php
+- style.css
+- page-work.php
+- js/main.js
+- add js/fitvids.js
+
+
+Changelog 1.3
+
+- Fixed Ordering image Home Slider
+
+File Changed : 
+
+- inc/format/content-page-slider.php
+- inc/meta-box/post-functions.php
+
+
+Changelog 1.2 28 November 2014
+- Resize the menu list font at mobile device
+- Resize the front Title and Slogan at mobile device
+- Fixed position of wrapper in blog article at tablet device
+
+File Changed :
+- style.css
+- main.js
+- page-work.php
+
+
+Changelog 1.1 19 November 2014
+- Remove index.html under logo
+- Add caption to Lightbox
+- Add Submenu Support
+
+File Changed :
+
+- main.js
+- Style.css
+- page-work.php
