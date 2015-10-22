@@ -355,9 +355,10 @@ function openImage(image) {
 	var marg = ((windowHeight - 100) / 2) + 40;
 	var video = image.attr('data-video');
 	var video = video.replace("watch?v=", "v/");
+    var artista = image.attr("data-artist");
 	
 
-	var meta = "<div class='info'><div class='meta'><span class='picture-title'>"+caption+"</span><span class='album-title'>"+album+"</span><span class='current'>"+(current+1)+" / "+total+"</span></div><div class='close'></div></div>";
+	var meta = "<div class='info'><div class='meta'><span class='picture-title'>"+artista+"</span><span class='album-title'>"+caption+" ( "+album+" ) </span><span class='current'>"+(current+1)+" / "+total+"</span></div><div class='close'></div></div>";
 	
 	var source;
 	if(video){
@@ -375,7 +376,7 @@ function openImage(image) {
 
 	
 	
-	var nav = "<div class='nav'><div class='prev' style='top: "+marg+"px;'>Prev</div><div class='next' style='top: "+marg+"px;'>Next</div></div>";
+	var nav = "<div class='nav'><div class='prev' style='top: "+marg+"px;'>Anterior</div><div class='next' style='top: "+marg+"px;'>Proximo</div></div>";
 	
 	jQuery.magnificPopup.open({
 		items: [{

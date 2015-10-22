@@ -4,6 +4,13 @@ define('BOW_DIR', get_template_directory_uri());
 define('BOW_TEMPLATE_DIR', get_template_directory());
 include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 
+
+
+
+
+
+
+
 //Set the content width based on the theme's design and stylesheet.
 if ( ! isset( $content_width ) )
 	$content_width = 1170; /* pixels */
